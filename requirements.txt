@@ -1,0 +1,11 @@
+flask
+flask-cors
+httpx
+cachetools
+protobuf>=6.30.0
+pycryptodome
+python-telegram-bot==21.6
+requests
+PyJWT
+protobuf-decoder
+urllib3
